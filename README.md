@@ -29,7 +29,7 @@ It uses an SPI SD Card connection, ESP32 (tested models: Wroom 32S and ESP32S3),
 ---
 
 ### **[PMOD I2S2 Audio Codec](https://digilent.com/reference/pmod/pmodi2s2/reference-manual)**  
-- Converts audio signals for the ESP32.  
+- Converts audio signals to I2S format.  
 - Requires Master Clock.  
 - This module includes both DAC and ADC functionalities, simplifying audio testing.
 
